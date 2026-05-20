@@ -1,5 +1,6 @@
 package Arrays;
 // Leetcode-Two Sum
+
 //Approach :HashMap
 //store numbers seen so far in a map
 //for the current x, check if target - x already exists in the map

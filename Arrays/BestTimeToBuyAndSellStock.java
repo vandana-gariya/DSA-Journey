@@ -1,5 +1,6 @@
 package Arrays;
 //Leetcode-121  Best Time To Buy And Sell Stock
+
 //Approach:
 //Traverse the array while keeping track of the minimum price seen so far.
 //calculate the profit for each day and update the maxProfit

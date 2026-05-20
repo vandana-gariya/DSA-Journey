@@ -35,7 +35,7 @@ public class RotateArraywithDistinctValue {
 
     public static void main(String[] args) {
         int[] arr = new int[] { 4, 5, 6, 7, 0, 1, 2 };
-        int result=search(arr, 6);
+        int result = search(arr, 6);
         System.out.println(result);
     }
 }
